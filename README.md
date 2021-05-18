@@ -4,8 +4,8 @@
 My name is Julian. I'm a student at Gdańsk University of Technology. Currently pursuing Bachelor of Science (Engineer Degree) in Computer Science. 
 
 🌱 Skills:
-- Java &nbsp; &#9733;	&#9733;	&#9733;	&#9733; &#9734; 
-- x86 Assembly Language &nbsp; &#9733;	&#9733;	&#9733;	&#9733; &#9734; 
+- Java &emsp; &#9733;	&#9733;	&#9733;	&#9733; &#9734; 
+- x86 Assembly Language &emsp; &#9733;	&#9733;	&#9733;	&#9733; &#9734; 
 - C/C++\t &#9733;	&#9733;	&#9733;	&#9733; &#9734; 
 - Python\t &#9733;	&#9733;	&#9733;	&#9733; &#9734; 
 - Linux and Bash\t &#9733;	&#9733;	&#9733;	&#9734; &#9734; 
