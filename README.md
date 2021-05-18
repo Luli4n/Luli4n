@@ -1,5 +1,6 @@
-
-<img src="https://user-images.githubusercontent.com/78416604/118632694-f5cf0d80-b7d0-11eb-828e-bb898cf4d4d1.png" alt="drawing" width="200"/>
+<div>
+  <img src="https://user-images.githubusercontent.com/78416604/118632694-f5cf0d80-b7d0-11eb-828e-bb898cf4d4d1.png" alt="MyPhoto" width="200"/>
+</div>
 ### Hello there 👋
 
 My name is Julian. I'm a student at Gdańsk University of Technology. Currently pursuing Bachelor of Science (Engineer Degree) in Computer Science. 
