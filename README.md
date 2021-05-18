@@ -23,11 +23,11 @@ My name is Julian. I'm a student at Gdańsk University of Technology. Currently 
   </tr>
   <tr>
     <td> Python </td>
-    <td> &#9733;	&#9733;	&#9733;	&#9734; &#9734;  </td>
+    <td> &#9733;	&#9733;	&#9733;	&#9733; &#9734;  </td>
   </tr>
   <tr>
     <td> Linux and Bash </td>
-    <td> &#9733;	&#9733;	&#9733;	&#9733; &#9734; </td>
+    <td> &#9733;	&#9733;	&#9733;	&#9734; &#9734; </td>
   </tr>
   <tr>
     <td> SQL </td>
