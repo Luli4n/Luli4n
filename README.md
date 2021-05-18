@@ -3,8 +3,9 @@
 
 My name is Julian. I'm a student at Gdańsk University of Technology. Currently pursuing Bachelor of Science (Engineer Degree) in Computer Science. 
 
-🌱 Skills:   
+  
 <table>
+  <th colspan="2"> 🌱 Skills: </th>
   <tr>
     <td> Java </td>
     <td> &#9733;	&#9733;	&#9733;	&#9733; &#9734; </td>
