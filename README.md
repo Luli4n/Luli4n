@@ -1,3 +1,7 @@
+<style>
+  img[image] { width: 100px; }
+</style>
+
 ![image](https://user-images.githubusercontent.com/78416604/118632694-f5cf0d80-b7d0-11eb-828e-bb898cf4d4d1.png)
 ### Hello there 👋
 
