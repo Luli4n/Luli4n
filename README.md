@@ -19,14 +19,14 @@ My name is Julian. I'm a student at Gdańsk University of Technology. Currently 
   </tr>
   <tr>
     <td> x86 Assembly Language </td>
-    <td rowspan="3"> Prolog </td>
-    <td rowspan="3"> English <td>
   </tr>
   <tr>
     <td> C/C++ </td>
   </tr>
   <tr>
     <td> Python </td>
+    <td rowspan="3"> Prolog </td>
+    <td rowspan="3"> English <td>
   </tr>
   <tr>
     <td> Linux and Bash </td>
