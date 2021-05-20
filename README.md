@@ -9,29 +9,29 @@ My name is Julian. I'm a student at Gdańsk University of Technology. Currently 
 
   
 <table>
-  <th colspan="2"> 🌱 Skills: </th>
+  <th> 🌱 Skills: </th>
+  <th> 📖 Basic knowledge: </th>
+  <th> 🌐 Languages: </th>
   <tr>
     <td> Java </td>
-    <td> &#9733;	&#9733;	&#9733;	&#9733; &#9734; </td>
+    <td rowspan="3"> C# </td>
+    <td rowspan="3"> Polish - native <td>
   </tr>
   <tr>
     <td> x86 Assembly Language </td>
-    <td> &#9733;	&#9733;	&#9733;	&#9733; &#9734; </td>
+    <td rowspan="3"> Prolog </td>
+    <td rowspan="3"> English <td>
   </tr>
   <tr>
     <td> C/C++ </td>
-    <td> &#9733;	&#9733;	&#9733;	&#9733; &#9734; </td>
   </tr>
   <tr>
     <td> Python </td>
-    <td> &#9733;	&#9733;	&#9733;	&#9733; &#9734;  </td>
   </tr>
   <tr>
     <td> Linux and Bash </td>
-    <td> &#9733;	&#9733;	&#9733;	&#9734; &#9734; </td>
   </tr>
   <tr>
     <td> SQL </td>
-    <td> &#9733;	&#9733;	&#9733;	&#9734; &#9734; </td>
   </tr>
 </table>
