@@ -35,3 +35,6 @@ My name is Julian. I'm a student at Gdańsk University of Technology. Currently 
     <td> SQL </td>
   </tr>
 </table>
+
+
+### My linkedin: https://www.linkedin.com/in/julian-krabel
